@@ -1,2 +1,2 @@
 # simpleETL
-The simple ETL is an exercise to experiment some technologies, like Python, Kafka, Mongo, among others. The concept is get data from CSV and Rest API, transform and Load it in a MongoDB using virtualization on Docker.
+SimpleETL is an exercise designed to explore various technologies, such as Python, Kafka, Mongo, and others. The concept involves obtaining data from CSV files and REST APIs, transforming it, and loading it into a MongoDB using virtualization through Docker.
